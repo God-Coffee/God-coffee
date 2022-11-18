@@ -1,7 +1,7 @@
-Olá, sou Patrick Davidson, este é o meu perfi 👋
+Hi I'm Patrick Davidson this is my profile 👋
 
-- Estudante
-- cursando técnico de analise e desenvolvimento de sistemas
+- student
+- studying technical analysis and systems development
 <div align="center">
   <a href="https://github.com/God-coffee">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=God-coffee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
