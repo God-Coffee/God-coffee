@@ -1,4 +1,4 @@
-Hi I'm Patrick Davidson this is my profile 👋
+Hi I'm Patrick and this is my profile 👋
 
 - student
 - studying technical analysis and systems development
