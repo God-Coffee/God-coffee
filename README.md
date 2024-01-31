@@ -1,6 +1,6 @@
 Hi I'm Patrick and this is my profile 👋
 
-- student
+- 17y
 - studying technical analysis and systems development
 <div align="center">
   <a href="https://github.com/God-coffee">
